@@ -1,9 +1,7 @@
-# StuToPro Study Library
-
-A static study digest of 15 collected Xiaohongshu posts across Agent interviews, Harness and Agentic RAG.
+# StuToPro Learning Notes
 
 https://liangqi-l.github.io/stutopro-library/
 
-The site publishes AI summaries and clearly labeled practice ideas with original-source links. Original posts, images, OCR transcripts and authentication data are not published here. Author claims remain unverified.
+This public site contains only published editorial articles. The private source database, original posts, images, OCR and comments are not included in this repository or current site output.
 
-Hosted with GitHub Pages. No build tools or external dependencies are needed.
+No articles have been selected for publication yet. The site displays an editorial coming-soon page.
